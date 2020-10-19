@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\bin\Debug\EVL1POODavidMalcaT3BN.exe.config
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\bin\Debug\EVL1POODavidMalcaT3BN.exe
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\bin\Debug\EVL1POODavidMalcaT3BN.pdb
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\obj\Debug\EVL1POODavidMalcaT3BN.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\obj\Debug\EVL1POODavidMalcaT3BN.frmPostulante.resources
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\obj\Debug\EVL1POODavidMalcaT3BN.Properties.Resources.resources
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\obj\Debug\EVL1POODavidMalcaT3BN.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\obj\Debug\EVL1POODavidMalcaT3BN.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\obj\Debug\EVL1POODavidMalcaT3BN.exe
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\obj\Debug\EVL1POODavidMalcaT3BN.pdb
+C:\Users\PC\source\repos\EVL1POODavidMalcaT3BN\EVL1POODavidMalcaT3BN\obj\Debug\EVL1POODavidMalcaT3BN.FormArtefactosElecktra.resources
